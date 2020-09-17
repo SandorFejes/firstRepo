@@ -9,6 +9,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
+
             //string myString = "Hello Batman";
             //string mickey = "Hello Mickey mouse";
             //string result = myString + mickey;
