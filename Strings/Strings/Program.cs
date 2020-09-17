@@ -9,7 +9,7 @@ namespace Strings
     {
         static void Main(string[] args)
         {
-
+            //this is a coment to git
             //string myString = "Hello Batman";
             //string mickey = "Hello Mickey mouse";
             //string result = myString + mickey;
